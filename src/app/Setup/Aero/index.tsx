@@ -96,7 +96,7 @@ const Aero: React.FC<BaseSetupProps> = ({ setup, onChange }) => (
         />
       </div>
     </TitledBox>
-    <h1>CAR</h1>
+    <div>CAR</div>
   </div>
 );
 
